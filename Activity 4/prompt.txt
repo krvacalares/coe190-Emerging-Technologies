@@ -1,0 +1,6 @@
+open image:
+python color_histogram.py --image test3.jpg 
+
+with folder:
+python color_histogram.py --image images/test4.webp
+python Vacalares_PriceCalculatorg.py --image testbench/test4.webp
