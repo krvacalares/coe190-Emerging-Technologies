@@ -1,2 +1,0 @@
-open image:
-python script.py --image example.jpg
